@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-whereami-mcp-badge.png)](https://mseep.ai/app/kukapay-whereami-mcp)
+
 # WhereAmI MCP Server
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
